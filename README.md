@@ -1,6 +1,6 @@
 # Build an App with React Suspense
 
-![course cover](assets/React_Suspense_Course_Cover.png)
+<p align="center"><img src="./assets/React_Suspense_Course_Cover.png" width="300"/></p>
 
 ## About
 
